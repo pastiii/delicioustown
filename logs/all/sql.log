@@ -1,0 +1,15 @@
+
+2023/08/07 11:19:17 /Volumes/worker/goProject/delicioustown/initialize/mysql.go:38
+[error] failed to initialize database, got error Error 1045 (28000): Access denied for user 'root'@'172.17.0.1' (using password: YES)
+
+2023/08/09 17:13:01 /Volumes/worker/goProject/delicioustown/initialize/mysql.go:38
+[error] failed to initialize database, got error Error 1045 (28000): Access denied for user 'root'@'172.17.0.1' (using password: YES)
+
+2023/08/09 17:31:16 /Volumes/worker/goProject/delicioustown/initialize/mysql.go:38
+[error] failed to initialize database, got error Error 1049 (42000): Unknown database 'test'
+
+2023/08/09 17:31:24 /Volumes/worker/goProject/delicioustown/initialize/mysql.go:38
+[error] failed to initialize database, got error Error 1045 (28000): Access denied for user 'zxq'@'172.17.0.1' (using password: YES)
+
+2023/08/09 17:32:20 /Volumes/worker/goProject/delicioustown/initialize/mysql.go:38
+[error] failed to initialize database, got error Error 1045 (28000): Access denied for user 'root'@'172.17.0.1' (using password: YES)
